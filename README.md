@@ -9,3 +9,5 @@
 - [Mange øyer](utfordringer/mange%C3%B8yer/mange%C3%B8yer.md)
 - [Lat Bonde](utfordringer/latbonde/latbonde.md)
 - [[Vanskelig] Sierpińskitegning](utfordringer/sierpińskitegning/sierpińskitegning.md)
+- [Spiralrekkefølge i matrise](utfordringer/spiralrekkefølge/spiralrekkefølge.md)
+- [Oversett en setning til griselatin](utfordringer/griselatin/griselatin.md)
