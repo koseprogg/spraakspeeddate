@@ -1,0 +1,12 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "name": "Elixir 1.17.3",
+    "onCreateCommand": "elixir --version",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "jakebecker.elixir-ls"
+            ]
+        }
+    }
+}
