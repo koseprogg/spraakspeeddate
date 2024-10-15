@@ -1,5 +1,5 @@
 {
-    "image": "hexpm/elixir:1.17.3-erlang-27.0.1-ubuntu-focal-20240918",
+    "build": { "dockerfile": "Dockerfile" },
     "name": "Elixir 1.17.3",
     "onCreateCommand": "elixir --version",
     "customizations": {
