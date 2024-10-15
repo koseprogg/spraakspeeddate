@@ -11,3 +11,4 @@
 - [[Vanskelig] Sierpińskitegning](utfordringer/sierpińskitegning/sierpińskitegning.md)
 - [Spiralrekkefølge i matrise](utfordringer/spiralrekkefølge/spiralrekkefølge.md)
 - [Oversett en setning til griselatin](utfordringer/griselatin/griselatin.md)
+- [Brainfuck](utfordringer/brainfuck/brainfuck.md)
