@@ -1,11 +1,18 @@
 # Rust
 
-For å kjøre Rust i terminalen, kjør kommandoen `rustc <filnavn>.rs` for å kompilere programmet. Deretter kjør `./<filnavn>`
+For å kjøre Rust i terminalen, bruk kommandoen `cargo run`.
 
 ## Eksempel
 
 ```bash
-$ rustc hello.rs
-$ ./hello
+$ cargo run
 Hello World!
+```
+
+## Bygging
+
+```bash
+$ cargo build --release
+$ ./target/release/hello
+Hello, world!
 ```
